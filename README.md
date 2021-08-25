@@ -18,10 +18,10 @@ Softwares I use for video editing and graphic design:
 > Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Adobe After Effects, Cinema 4d, Autodesk 3ds Max
 
 You can contact me in:
-+ jnhcastillo78@gmail.com
++ Gmail: jnhcastillo78@gmail.com
 + [Github](https://github.com/johnNeil-castillo)
 + [LinkedIn](https://www.linkedin.com/in/john-neil-castillo-981895157/)
-+ Skype jnhcastillo78@gmail.com
++ [Skype](https://join.skype.com/invite/gEaAZ0Vjg4tS)
 + [Upwork](https://www.upwork.com/o/profiles/users/~01a545fcbb25bcac40/)
 + [Behance](https://www.behance.net/NeilCastillo)
 
