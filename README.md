@@ -2,7 +2,7 @@
 
 ### I'm a multimedia designer currently learning full stack development with 4 years of experience as a freelance video editor and graphic designer in Upwork.
 
-### I live in Laguna, Philippines.
+#### I live in Laguna, Philippines.
 
 #### I'm continously learning MongoDB, Express, React, and Node in the past couple of months. I've made personal projects that utilizes more on full stack development. I currently learned git as a version control system for my projects and will continue to build up my profile here in github. 🌱
 
