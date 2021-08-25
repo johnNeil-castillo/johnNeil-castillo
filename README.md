@@ -15,7 +15,7 @@ Softwares I use for full stack development:
 > Visual Studio Code, Git Kraken, Git Bash
 
 Softwares I use for video editing and graphic design:
-> Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Adobe After Effects, Cinema 4d, Autodesk 3ds Max
+> Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Adobe After Effects, Cinema 4d, Autodesk 3ds Max, Lumion, Blender
 
 You can contact me in:
 + Gmail: jnhcastillo78@gmail.com
