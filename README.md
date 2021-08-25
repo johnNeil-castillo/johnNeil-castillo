@@ -9,12 +9,11 @@ I'm continously learning MongoDB, Express, React, and Node in the past couple of
 I love learning different tools and strategies that are used in full stack development. It mesmerizes me on how things connects and how it can be done in different ways. I want to be part of a company that can help me grow with my skills and dedicate my passion in the company. There are still a lot of things that I want to study and my curiosity for learning will never stop. 👀
 
 My current skills in full stack development:
-Node, Express, Rreact, MongoDB, Javascript, Redux, React Router, API, Git, Github, Lodash, Axios, ES6 syntax, Socket io, CRUD functions
+> Node, Express, Rreact, MongoDB, Javascript, Redux, React Router, API, Git, Github, Lodash, Axios, ES6 syntax, Socket io, CRUD functions
 
 Softwares I use for full stack development:
-Visual Studio Code, Git Kraken, Git Bash
+> Visual Studio Code, Git Kraken, Git Bash
 
 Softwares I use for video editing and graphic design:
-Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Adobe After Effects, Cinema 4d, Autodesk 3ds Max
+> Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Adobe After Effects, Cinema 4d, Autodesk 3ds Max
 
-H
