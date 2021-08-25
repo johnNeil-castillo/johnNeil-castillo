@@ -1,4 +1,4 @@
-### Hi! I'm John Neil H. Castillo 👋
+### Hi! I'm John Neil Castillo 👋
 
 ### I'm a multimedia designer currently learning full stack development with 4 years of experience as a freelance video editor and graphic designer in Upwork.
 
