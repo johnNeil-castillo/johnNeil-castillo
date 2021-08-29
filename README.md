@@ -9,7 +9,7 @@
 #### I love learning different tools and strategies that are used in full stack development. It mesmerizes me on how things connects and how it can be done in different ways. I want to be part of a company that can help me grow and bring my utmost potential to help the company further. There are still a lot of things that I want to study and my curiosity for learning will never stop. 👀
 
 My current skills in full stack development:
-> Node, Express, Rreact, MongoDB, CRUD MongoDB, Javascript, Redux, React Router, API, Git, Github, Lodash, Axios, ES6 syntax, Socket io, 
+> Node, Express, Rreact, MongoDB, CRUD MongoDB, Javascript, Redux, React Router, API, Git, Github, Lodash, Axios, ES6 syntax, Socket io, Postman, Semantic UI, Bootstrap, Ant Design
 
 Softwares I use for full stack development:
 > Visual Studio Code, Git Kraken, Git Bash
