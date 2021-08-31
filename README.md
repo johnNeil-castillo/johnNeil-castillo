@@ -4,9 +4,9 @@
 
 #### I live in Laguna, Philippines.
 
-#### I'm continously learning MongoDB, Express, React, and Node in the past couple of months. I've made personal projects that utilizes more on full stack development. I currently learned git as a version control system for my projects and will continue to build up my profile here in github. 🌱
+#### I've made personal projects that utilizes more on full stack development and I will continue to develop my skills further in different languages and tools. I currently learned git as a version control system this late August 2021 for my projects and will continue to build up my profile here in github. 🌱
 
-#### I love learning different tools and strategies that are used in full stack development. It mesmerizes me on how things connects and how it can be done in different ways. I want to be part of a company that can help me grow and bring my utmost potential to help the company further. There are still a lot of things that I want to study and my curiosity for learning will never stop. 👀
+#### I love to study on how things connect and how it can be done in many different ways. Learning is always part of my routine and it will never stop.👀 
 
 My current skills in full stack development:
 > Node, Express, Rreact, MongoDB, CRUD MongoDB, Javascript, Redux, React Router, API, Git, Github, Lodash, Axios, ES6 syntax, Socket io, Semantic UI, Bootstrap, Ant Design
