@@ -1,4 +1,4 @@
-### Hi! I'm John Neil Castillo 👋
+### Hi! I'm John Neil Castillo, 25 years old 👋
 
 ### I'm a multimedia designer continously learning full stack development with 4 years of experience as a freelance video editor and graphic designer in Upwork.
 
