@@ -2,7 +2,7 @@
 
 ### I'm a multimedia designer continously learning full stack development for 3 months.
 
-### I have 4 years of experience as a freelance video editor and graphic designer in Upwork. Also, a 3 and a half years of experience as a full time employee in a conglomerate company that focuses on hotels, travel agencies, pharmaceuticals, and land development. I have a total work experience of 5 years.
+### I have 4 years of experience as a freelance video editor and graphic designer in Upwork. Also, a 4 years of experience as a full time employee in a conglomerate company that focuses on hotels, travel agencies, pharmaceuticals, and land development. I have a total work experience of 5 years.
 
 #### I live in Laguna, Philippines.
 
