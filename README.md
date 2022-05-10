@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnneil-castillo&label=Profile%20views&color=0e75b6&style=flat" alt="johnneil-castillo" /> </p>
 
+<p align="left"> <a href="https://twitter.com/ljohnneil" target="blank"><img src="https://img.shields.io/twitter/follow/ljohnneil?logo=twitter&style=for-the-badge" alt="ljohnneil" /></a> </p>
+
 - 🔭 I’m currently working on **Shopify Theme Development**
 
 - 🌱 I’m currently learning **React and Typescript**
@@ -26,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnneil-castillo&show_icons=true&locale=en&layout=compact" alt="johnneil-castillo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnneil-castillo&show_icons=true&locale=en" alt="johnneil-castillo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnneil-castillo&" alt="johnneil-castillo" /></p>
