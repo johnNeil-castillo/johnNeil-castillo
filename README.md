@@ -1,5 +1,7 @@
+[![MasterHead](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)]()
 <h1 align="center">Hi 👋, I'm John Neil Castillo</h1>
 <h3 align="center">A Shopify Developer, Full Stack Developer, Graphic Designer, and Video editor</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnneil-castillo&label=Profile%20views&color=0e75b6&style=flat" alt="johnneil-castillo" /> </p>
 
