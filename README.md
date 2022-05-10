@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jnhcastillo78@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T3SSre9-5AFozK8Mhg5z2jbw8njYj1w2/view?usp=sharing](https://drive.google.com/file/d/1T3SSre9-5AFozK8Mhg5z2jbw8njYj1w2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T3SSre9-5AFozK8Mhg5z2jbw8njYj1w2/view?usp=sharing](My Resume)
 
 - ⚡ Fun fact **I know how to play guitar, piano, bass guitar, and drums**
 
